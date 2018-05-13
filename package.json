@@ -1,0 +1,15 @@
+{
+  "name": "future-handwritten-digit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "future-framework": "^1.0.1",
+    "keras-js": "^1.0.3",
+    "lodash": "^4.17.10",
+    "sharp": "^0.20.2"
+  }
+}
